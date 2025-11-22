@@ -39,14 +39,8 @@ public class Marcos : Developer
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marc0zDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc0zDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
+  <br>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Marc0zDev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marc0zDev&custom_title=Contribuições%20nos%20Últimos%20Meses&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=58A6FF&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -83,47 +77,46 @@ public class Marcos : Developer
 ## 🎯 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marc0zDev&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marc0zDev&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marc0zDev&theme=tokyonight&utcOffset=-3" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marc0zDev&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marc0zDev&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marc0zDev&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marc0zDev&theme=tokyonight&utcOffset=-3" />
 </div>
 
-## 🏆 Conquistas
+## 🎮 Diversão
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marc0zDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-## 🎮 Zona Geek
-
-<div align="center">
-  
-  ### 🎲 Piada Aleatória de Programador
-  
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-  
-  <br><br>
-  
-  ### 🔥 GitHub Streak
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marc0zDev&theme=radical&hide_border=true" />
-  
-  <br>
-  
-  ### 🎯 Frase Motivacional do Dia
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-  <br><br>
-  
-  ### 🐱 Meme Aleatório de Programação
-  
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23161B22&textColor=%2358A6FF&qColor=%23FF6B6B&aColor=%23A0D911&codeColor=%23E1E4E8&borderColor=%2330363D" height="300px" alt="Programming Meme"/>
-  
 </div>
+
+## 🌟 Um Pouco Sobre Mim
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💙 Mineiridade
+
+Sou **mineiro de Belo Horizonte** e cruzeirense de coração! 
+
+🦊 Torcedor apaixonado do **Cruzeiro** desde criança. Já vibrei com as conquistas da Libertadores, os Brasileiros e as Copas do Brasil. Raposa sempre!
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Curiosidades
+
+- ☕ **Café:** Não programo sem um bom café
+- 🎮 **Games:** Nas horas vagas, um bom jogo
+- 🎵 **Música:** Codar ouvindo música é essencial
+- 📚 **Sempre aprendendo:** Tecnologia não para!
+
+</td>
+</tr>
+</table>
 
 ## 📫 Vamos nos Conectar!
 
@@ -141,23 +134,6 @@ public class Marcos : Developer
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💭 Pensamento do Dia
-  
-  *"A única maneira de fazer um excelente trabalho é amar o que você faz."* - Steve Jobs
-  
-  <br>
-  
-  ### ☕ Me pague um café!
-  
-  Se você gostou do meu trabalho e quer me apoiar:
-  
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
-  
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
